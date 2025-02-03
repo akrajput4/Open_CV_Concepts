@@ -1,0 +1,16 @@
+## What is Open Cv ?
+    1) It is an image processing library created by intel and later supported by willow Garage
+    and now maintained by Itseez
+    2) open source and free
+    3) Easy to use and install
+
+
+## Image vs Matrix
+   1) Digital Images are typically stored in a matrix
+   2) There are many file formats
+
+## What is numpy
+   1) It is Highly optimised library for numerical operations
+   2) Array Structure is important because digital images are 2d arrays of pixels
+   3) All the openCV array structures are converted to and from numpy arrays
+   4) you can use more convenient indexing system than for loops
